@@ -20,7 +20,12 @@ const | factory | library | sync* | yield*
 
 
 ## Hola mundo en Dart
+Dart debe tener incluido el método main para poder ejecutarse
+```
+void main() {
+  print('Hello world!');
+}
 ```
 
-```
+
 
