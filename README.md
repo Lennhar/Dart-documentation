@@ -26,6 +26,9 @@ void main() {
   print('Hello world!');
 }
 ```
+~/Desktop/Dart-documentation/ejercicios (master)
+$ dart 01_holamundo.dart
+Hello world!
 
 
 
