@@ -3,8 +3,8 @@ Documentación básica sobre Dart para iniciar desarrollo móvil con Flutter
 
 ## Palabras reservadas de Dart
 Palabras que solo pueden ser usadas en un contexto específico
-         |          |       |        
--------- | -------- | ----- | -------
+First Header | Second Header | First Header | Second Header
+------------ | ------------- | ------------ | -------------
 abstract | continue | FALSE | new this
 as | default | final | null | throw
 assert | deferred | finally | operator | TRUE
