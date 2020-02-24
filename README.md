@@ -1,8 +1,10 @@
 # Dart-documentation
 Documentación básica sobre Dart para iniciar desarrollo móvil con Flutter
 
-##Palabras reservadas de Dart
+## Palabras reservadas de Dart
 Palabras que solo pueden ser usadas en un contexto específico
+         |          |       |        
+-------- | -------- | ----- | -------
 abstract | continue | FALSE | new this
 as | default | final | null | throw
 assert | deferred | finally | operator | TRUE
