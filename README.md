@@ -30,5 +30,16 @@ void main() {
 $ dart 01_holamundo.dart
 Hello world!
 
+## Tipado de datos
+### Números
+```
+main()
+{
+  int a = 10;
+  double b = 5.5;
+  int c; //Esto es igual a null por defecto
 
+  int _a = 30; //Esto también está permitido
+}
+```
 
