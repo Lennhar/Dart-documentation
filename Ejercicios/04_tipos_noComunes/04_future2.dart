@@ -6,7 +6,9 @@ main() {
 
 Future<String> f = file.readAsString();
 
-f.then(print);
+//f.then(print);
+
+f.then((data) => print(data));
 print('Fin del main');
 
 }
